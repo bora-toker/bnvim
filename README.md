@@ -1,0 +1,3 @@
+My simple Neovim config with 
+LSP, Syntax Highlighting, Autocomplete(LSP), VimTeX and other stuff...
+Very straightforward to use
